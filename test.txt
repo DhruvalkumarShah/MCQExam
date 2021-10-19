@@ -1,0 +1,18 @@
+Who created C???
+Denis M. Ritchie
+Daniel Ritchie
+Jack Leach
+Both A and B
+1
+File handling is supported by C??
+Yes
+No
+I don't know
+Partially supported
+1
+Which of the following is exit controlled loop??
+for loop
+while loop
+do while loop
+switch loop
+3
