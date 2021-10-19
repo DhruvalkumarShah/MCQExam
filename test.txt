@@ -1,18 +1,18 @@
-Who created C???
-Denis M. Ritchie
-Daniel Ritchie
-Jack Leach
-Both A and B
+What is the extension of header file in C??
+.h
+.header
+.head
+.Cheader
 1
-File handling is supported by C??
-Yes
-No
-I don't know
-Partially supported
+What is return type of printf
+void
+char
+float
+int
+4
+What is the extension of C code??
+.c
+.cpp
+.ccode
+.cc
 1
-Which of the following is exit controlled loop??
-for loop
-while loop
-do while loop
-switch loop
-3
